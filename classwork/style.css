@@ -1,0 +1,11 @@
+#spis li {
+    cursor: pointer;
+    padding: 12px 8px 12px 40px;
+    font-size: 16pt;
+}
+#spis li:hover {
+    background: #ddd;
+}
+#spis li.proove {
+    color: green;
+}
